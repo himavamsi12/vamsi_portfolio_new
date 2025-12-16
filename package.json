@@ -1,0 +1,21 @@
+{
+  "name": "vamsi_portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "host": "vite --host"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.8",
+    "three": "^0.181.2",
+    "vite": "^7.0.5"
+  }
+}
